@@ -261,4 +261,6 @@ ggplot(mtcars, aes(x = mpg, y = qsec, col = factor(cyl), shape = factor(am), siz
   
 #positioning----
 
+#managing the position of the data
+
 
