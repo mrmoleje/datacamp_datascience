@@ -1,2 +1,4 @@
+
 # datacamp_datascience
-# datacamp_datascience
+
+Data science course through DataCamp
